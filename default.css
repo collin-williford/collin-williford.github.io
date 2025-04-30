@@ -94,3 +94,18 @@ h2 {
 .intro-section li {
     margin-bottom: 8px;
 }
+
+
+.intro-section {
+    text-align: left;
+    margin-top: 20px;
+    line-height: 1.6;
+    font-size: 1rem;
+}
+
+.contract-container {
+        max-width: 800px;
+        margin: 40px auto;
+        padding: 0 20px;
+        text-align: center;
+}
